@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407670885421",
+    "firebase_url": "https://whatsupp-11214.firebaseio.com",
+    "project_id": "whatsupp-11214",
+    "storage_bucket": "whatsupp-11214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407670885421:android:338e6f3e8b0cbc85ddfca4",
+        "android_client_info": {
+          "package_name": "com.example.whatsupp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407670885421-kmdsl6iduh3626hpb4al51k1vobqch49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQQtrnHTwZbWxlDw02ZvLSZtsMGfuEs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407670885421-kmdsl6iduh3626hpb4al51k1vobqch49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
